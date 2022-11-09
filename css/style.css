@@ -1,5 +1,5 @@
 .background-hero {
-    background-image: url(/img/pexels-seatizenco-557782.jpg) !important;
+    background-image: url(img/pexels-seatizenco-557782.jpg) !important;
     background-size: cover !important;
     background-position: center !important;
     
@@ -9,7 +9,7 @@
 
 @font-face {
     font-family: TechnoFont;
-    src: url(/fonts/Darkness\ Bold.ttf);
+    src: url(fonts/Darkness\ Bold.ttf);
   }
   
   .techno-title {
