@@ -1,0 +1,50 @@
+.background-hero {
+    background-image: url(/img/pexels-seatizenco-557782.jpg) !important;
+    background-size: cover !important;
+    background-position: center !important;
+    
+}
+
+
+
+@font-face {
+    font-family: TechnoFont;
+    src: url(/fonts/Darkness\ Bold.ttf);
+  }
+  
+  .techno-title {
+    font-family: TechnoFont !important;
+    font-size: 10em !important;
+  
+    text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000; 
+  }
+  
+  .techno-subtitle {
+    font-family: TechnoFont !important;
+    font-size: 4em !important;
+    text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;  
+
+  }
+
+ nav{
+  background-color: black;
+ } 
+
+  nav a{
+    font-family: TechnoFont;
+    color: white;
+    font-size: 3em;
+    padding: 0px 50px 0px 50px;
+  }
+
+  nav a:hover{
+    color: lightgray;
+  }
